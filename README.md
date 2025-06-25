@@ -96,7 +96,8 @@ You can explore full visualizations and charts in the notebook:
 
 > Click below to open the full analysis with code + charts:
 
-[![Open In Colab]((https://colab.research.google.com/github/usha-bharadwaj/customer-churn-analysis/blob/main/Untitled0.ipynb))]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/usha-bharadwaj/customer-churn-analysis/blob/main/Untitled0.ipynb)
+
 
 ---
 
